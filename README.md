@@ -1,7 +1,7 @@
 # All my c programs 
 
 > 1.  Modulo Exponent ( find b^e%m )
-> 2.  Prime Factors ( input: 16 output: 2*2*2*2 )
+> 2.  Prime Factors ( input: 16 output: 2x2x2x2 )
 > 3.  GCD
 > 4.  LCM
 > 5.  Count Handeshakes combinations 
