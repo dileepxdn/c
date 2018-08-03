@@ -10,3 +10,12 @@ int main(int argc, char const *argv[])
     prin();
     return 0;
 }
+
+
+//dileep wrtitten
+void pw(){
+    printf("Welcome");
+}
+
+
+//cool
